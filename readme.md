@@ -1,6 +1,6 @@
 # ary
 
-Simple terminal ary game
+Simple terminal project setupper
 
 ## Installation
 
