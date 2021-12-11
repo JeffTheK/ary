@@ -14,7 +14,7 @@ setup(
     },
     package_data = {
         "ary": [
-            "data/**"
+            "data/*/*"
         ]
     }
 )

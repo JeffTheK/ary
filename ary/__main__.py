@@ -1,8 +1,4 @@
-class Project:
-    def __init__(self, name, language, author="JeffTheK"):
-        self.name = name
-        self.language = language
-        self.author = author
+from .project import Project
 
 def main():
     name = input("name: ")
